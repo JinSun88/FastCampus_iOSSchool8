@@ -3,6 +3,7 @@
 * #### 1주차 : 2018. 9. 3. ~ 9. 9.
   * [컴퓨터 개론](https://github.com/JinSun88/FastCampus_iOS_School8/tree/master/20180904)
   * [Git, Terminal](https://github.com/JinSun88/FastCampus_iOS_School8/tree/master/20180906)
+  * [사전지식체크, 구글검색옵션](https://github.com/JinSun88/FastCampus_iOS_School8/tree/master/20180907)
 
 * #### 2주차 : 2018. 9. 10. ~ 9. 16.
 
